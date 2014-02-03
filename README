@@ -1,0 +1,11 @@
+DBSniffer
+
+IDS/IPS for Oracle and MySQL
+
+This program was used in these papers:
+
+José Fonseca, Marco Vieira, Henrique Madeira, "Vulnerability & Attack Injection for Web Applications", 39th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2009), Estoril, Lisbon, Portugal, June 29 - July 2, 2009
+
+José Fonseca, "Intrusion Detection in Databases", Student Forum of the International Conference on Dependable Systems and Networks (DSN 2006), Philadelphia, Pennsylvania, USA, June 25-28, 2006
+
+Copyright (C) 2009 by Jose Fonseca (jozefonseca at gmail dot com)
